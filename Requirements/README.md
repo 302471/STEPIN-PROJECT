@@ -7,6 +7,8 @@ The options those of the admin account are completely different from the user ac
 now the user selects another option from the given menu. The action corresponding to the selected option  gets executed.
 
 
+
+ sushma
 ## OBJECTIVES:
 
 ATM Banking system project is based on a concept of managing an account personally. From this system, the user can check total balance, Deposit Amount and Withdraw Amounts easily as it is not time-consuming. 
