@@ -11,4 +11,4 @@ Here we have two types of accounts. One the user account and the other admin acc
 https://www.code-inspector.com/project/24891/score/svg
 
 
-https://www.code-inspector.com/project/24891/status/svg
+
