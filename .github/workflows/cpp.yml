@@ -15,4 +15,4 @@ jobs:
     - name: Install cppcheck
       run: sudo apt -y install cppcheck
     - name: Run cppcheck
-      run: cppcheck 3_IMPLEMENTATION
+      run: cppcheck STEPIN-PROJECT/STEPIN-PROJECT/3_IMPLEMENTATION
