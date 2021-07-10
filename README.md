@@ -19,3 +19,14 @@ Here we have two types of accounts. One the user account and the other admin acc
 
 
 
+[![Contribution Check - Git Inspector](https://github.com/302471/STEPIN-PROJECT/actions/workflows/Gitinspector.yml/badge.svg)](https://github.com/302471/STEPIN-PROJECT/actions/workflows/Gitinspector.yml)
+
+
+
+[![Static Code Quality- Cppcheck](https://github.com/302471/STEPIN-PROJECT/actions/workflows/cpp.yml/badge.svg)](https://github.com/302471/STEPIN-PROJECT/actions/workflows/cpp.yml)
+
+
+
+
+
+
