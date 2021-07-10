@@ -15,5 +15,7 @@ Here we have two types of accounts. One the user account and the other admin acc
 ![code grade](https://www.code-inspector.com/project/24891/status/svg)
 
 
+[![CI](https://github.com/302471/STEPIN-PROJECT/actions/workflows/main.yml/badge.svg)](https://github.com/302471/STEPIN-PROJECT/actions/workflows/main.yml)
+
 
 
