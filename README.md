@@ -5,7 +5,15 @@ Here we have two types of accounts. One the user account and the other admin acc
 
 
 
+
+
+
 ![code quality score](https://www.code-inspector.com/project/24891/score/svg)
+
+
+
+![code grade](https://www.code-inspector.com/project/24891/status/svg)
+
 
 
 
