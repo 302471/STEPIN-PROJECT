@@ -6,3 +6,9 @@ Here we have two types of accounts. One the user account and the other admin acc
 <a href="https://frontend.code-inspector.com/public/user/github/302471">
    <img src="https://code-inspector.com/public/badge/user/github/302471?style=light" alt="code inspector badge" />
 </a>
+
+
+https://www.code-inspector.com/project/24891/score/svg
+
+
+https://www.code-inspector.com/project/24891/status/svg
