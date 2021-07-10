@@ -2,7 +2,7 @@ name: Unit Testing - Unity
 
 on:
   push:
-    branches: [ master ]
+    branches: [ main ]
   
 
 jobs:
@@ -13,4 +13,4 @@ jobs:
     steps:
     - uses: actions/checkout@v2
     - name: make
-      run: make -C 3_Implementation/ test
+      run: make -C 3_IMPLEMENTATION/ test
