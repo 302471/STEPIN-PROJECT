@@ -26,6 +26,8 @@ Here we have two types of accounts. One the user account and the other admin acc
 [![Static Code Quality- Cppcheck](https://github.com/302471/STEPIN-PROJECT/actions/workflows/cpp.yml/badge.svg)](https://github.com/302471/STEPIN-PROJECT/actions/workflows/cpp.yml)
 
 
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/baccf2a713e4459fb051b5b484e79d42)](https://www.codacy.com/gh/302471/STEPIN-PROJECT/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=302471/STEPIN-PROJECT&amp;utm_campaign=Badge_Grade)
+
 
 
 
