@@ -7,7 +7,7 @@ on:
     branches: [ main ]
 
 jobs:
-  test:
+  build:
 
     runs-on: ubuntu-latest
 
@@ -18,6 +18,6 @@ jobs:
         sudo apt-get -y install valgrind
         sudo apt-get -y install libcunit1 libcunit1-doc libcunit1-dev 
     - name: make test
-      run: make -C 3_IMPLEMENTATION/ test
-    - name: Valgrid
-      run: make -C 3_IMPLEMENTATION/ valgrind
+       run: |
+        make run -C 3_IMPLEMENTATION/
+        valgrind ./3_IMPLEMENTATION/ATM.out
