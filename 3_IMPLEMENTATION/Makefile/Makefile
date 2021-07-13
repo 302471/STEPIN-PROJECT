@@ -1,4 +1,4 @@
-PROJ_NAME=main
+PROJ_NAME=ATM
 TEST_PROJ_NAME=TEST_$(PROJ_NAME)
 SRC = src/checkBalance.c \
 src/choose_module.c \
