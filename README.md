@@ -8,19 +8,13 @@ Here we have two types of accounts. One the user account and the other admin acc
 
 
 
-![code quality score](https://www.code-inspector.com/project/24891/score/svg)
-
-
-
-![code grade](https://www.code-inspector.com/project/24891/status/svg)
+![code quality score](https://www.code-inspector.com/project/24891/score/svg)   ![code grade](https://www.code-inspector.com/project/24891/status/svg)
 
 
 [![CI](https://github.com/302471/STEPIN-PROJECT/actions/workflows/main.yml/badge.svg)](https://github.com/302471/STEPIN-PROJECT/actions/workflows/main.yml)
 
 
-
-[![Contribution Check - Git Inspector](https://github.com/302471/STEPIN-PROJECT/actions/workflows/Gitinspector.yml/badge.svg)](https://github.com/302471/STEPIN-PROJECT/actions/workflows/Gitinspector.yml)
-
+[![Git Inspector](https://github.com/302471/STEPIN-PROJECT/actions/workflows/Git%20Inspecter.yml/badge.svg)](https://github.com/302471/STEPIN-PROJECT/actions/workflows/Git%20Inspecter.yml)
 
 
 [![Static Code Quality- Cppcheck](https://github.com/302471/STEPIN-PROJECT/actions/workflows/cpp.yml/badge.svg)](https://github.com/302471/STEPIN-PROJECT/actions/workflows/cpp.yml)
